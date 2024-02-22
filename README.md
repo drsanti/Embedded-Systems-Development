@@ -28,9 +28,9 @@ This repository provides learning resources of the `Embedded Systems Development
 
 ### DevBoardGen1 (Pioneer)
 
-<img src="./docs/images/pioneer.png.png" width="600">
+<img src="./docs/images/pioneer.png" width="600">
 
 
 ### DevBoardGen2 (Ternion)
 
-<img src="./docs/images/pioneer.png.png" width="600">
+<img src="./docs/images/pioneer.png" width="600">
