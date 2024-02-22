@@ -22,3 +22,15 @@ This repository provides learning resources of the `Embedded Systems Development
 :movie_camera: [EP01: Introduction to this series](https://youtu.be/R_Hrb4gQyqM)
 
 >Other videos will be updated soon.
+
+
+## Development Boards
+
+### DevBoardGen1 (Pioneer)
+
+<img src="./docs/images/pioneer.png.png" width="600">
+
+
+### DevBoardGen2 (Ternion)
+
+<img src="./docs/images/pioneer.png.png" width="600">
