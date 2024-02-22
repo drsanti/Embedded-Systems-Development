@@ -21,6 +21,8 @@ This repository provides learning resources of the `Embedded Systems Development
 
 :movie_camera: [EP01: Introduction to this series](https://youtu.be/R_Hrb4gQyqM)
 
+:movie_camera: [EP02: Development Boards and Learning Resources](https://youtu.be/EwJMqaTC3D0)
+
 >Other videos will be updated soon.
 
 
