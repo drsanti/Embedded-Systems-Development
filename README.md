@@ -9,7 +9,7 @@ This repository provides learning resources of the `Embedded Systems Development
   
 - :floppy_disk: [ternion_library_installer.zip](https://drive.google.com/file/d/1QA_oE0H3pMjCHzVteBT_uBbI-3yAAMnq/view?usp=sharing) (no update)
 
-- :floppy_disk: [ternion_tools_installer.zip](https://drive.google.com/file/d/160y1VxjB0OcvMvXvsZEnk9T65kMawAfG/view?usp=sharing) (last update: 01 March 2024)
+- :floppy_disk: [ternion_tools_installer.zip](https://drive.google.com/file/d/160y1VxjB0OcvMvXvsZEnk9T65kMawAfG/view?usp=sharing) (last update: 05 March 2024)
 
 >Download and install only the `ternion_full_installer`. The `ternion_library_installer` and `ternion_tools_installer` are used to update the `library` and `tools`. If you see `new update`, you can download and install them.
 
@@ -32,6 +32,8 @@ This repository provides learning resources of the `Embedded Systems Development
 :movie_camera: [EP06: Create a New Ternion Project](https://youtu.be/1ZyPyZuMCwA)
 
 :movie_camera: [EP07:  Firmware Development Workflow](https://youtu.be/DiKG8eBf54Y)
+
+:movie_camera: [EP08:  Periodic Operation and Blinking LED](https://youtu.be/vuMPcCpqx5k)
 
 >Other videos will be updated soon.
 
