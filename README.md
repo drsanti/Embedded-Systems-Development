@@ -15,7 +15,9 @@ This repository provides learning resources of the `Embedded Systems Development
 
 ## Documents:
 
->Will be provided later
+:book: [XC16 C Compiler User's Guide](https://ww1.microchip.com/downloads/en/DeviceDoc/MPLAB%20XC16%20C%20Compiler%20Users%20Guide%20DS50002071.pdf)
+
+:book: [PIC24FJ64GA004 FAMILY](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/39881e.pdf)
 
 ## Videos (YouTube)
 
@@ -34,6 +36,12 @@ This repository provides learning resources of the `Embedded Systems Development
 :movie_camera: [EP07:  Firmware Development Workflow](https://youtu.be/DiKG8eBf54Y)
 
 :movie_camera: [EP08:  Periodic Operation and Blinking LED](https://youtu.be/vuMPcCpqx5k)
+
+:movie_camera: [EP09:  Switches and Events (Basics)](https://youtu.be/Yul2FaMqmug)
+
+:movie_camera: [EP10:  Analog-to-Digital Converter (ADC)](https://youtu.be/cqQ0Wxi7YEI)
+
+:movie_camera: [EP11:  Introduction to Variables and Variable Declaration](https://youtu.be/_hx1HK8BxpU)
 
 >Other videos will be updated soon.
 
