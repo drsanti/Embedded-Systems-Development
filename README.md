@@ -11,6 +11,8 @@ This repository provides learning resources of the `Embedded Systems Development
 
 - :floppy_disk: [ternion_tools_installer.zip](https://drive.google.com/file/d/160y1VxjB0OcvMvXvsZEnk9T65kMawAfG/view?usp=sharing) (last update: 05 March 2024)
 
+- :floppy_disk: [All software tools](https://drive.google.com/drive/folders/1Du3LzJ2vCQVqI7TTh7TJsF7wNZv_C8Vi)
+
 >Download and install only the `ternion_full_installer`. The `ternion_library_installer` and `ternion_tools_installer` are used to update the `library` and `tools`. If you see `new update`, you can download and install them.
 
 ## Documents:
