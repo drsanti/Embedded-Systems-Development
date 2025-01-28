@@ -6,7 +6,7 @@ This repository provides learning resources of the `Embedded Systems Development
 ## Software Tools
 
 - :floppy_disk: [
-ternion_full_installer.zip]([https://drive.google.com/file/d/1p5xKjNtWMkip_j8TWxl69MGJGkMsb7DU/view?usp=sharing]) This installer includes all you need.
+ternion_full_installer.zip](https://drive.google.com/file/d/1p5xKjNtWMkip_j8TWxl69MGJGkMsb7DU/view?usp=sharing) This installer includes all you need.
 
 ##### *Update:* Three items below are not required  
 - :floppy_disk: ~~[ternion_library_installer.zip](https://drive.google.com/file/d/1QA_oE0H3pMjCHzVteBT_uBbI-3yAAMnq/view?usp=sharing) (no update)~~
