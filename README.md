@@ -25,7 +25,7 @@ ternion_full_installer.zip](https://drive.google.com/file/d/1p5xKjNtWMkip_j8TWxl
 
 ## Videos (YouTube Playlist)
 
-:movie_camera: [Embedded Systems Development]([https://youtu.be/R_Hrb4gQyqM](https://www.youtube.com/playlist?list=PLBPFpqyTjzeXu0P0vRzooo-VWmZtSZkAj))
+:movie_camera: [Embedded Systems Development](https://www.youtube.com/playlist?list=PLBPFpqyTjzeXu0P0vRzooo-VWmZtSZkAj)
 
 
 
